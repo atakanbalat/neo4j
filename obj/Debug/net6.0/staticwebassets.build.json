@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "uX/HhfNh3cPMkejsWMSXzamsC4raVIAAgbj6uyEni3A=",
+  "Source": "movieProject",
+  "BasePath": "_content/movieProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "movieProject\\wwwroot",
+      "Source": "movieProject",
+      "ContentRoot": "C:\\Users\\husey\\source\\repos\\.NetCore Example\\wwwroot\\",
+      "BasePath": "_content/movieProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\husey\\source\\repos\\.NetCore Example\\wwwroot\\index.html",
+      "SourceId": "movieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\husey\\source\\repos\\.NetCore Example\\wwwroot\\",
+      "BasePath": "_content/movieProject",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\husey\\source\\repos\\.NetCore Example\\wwwroot\\site.css",
+      "SourceId": "movieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\husey\\source\\repos\\.NetCore Example\\wwwroot\\",
+      "BasePath": "_content/movieProject",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}

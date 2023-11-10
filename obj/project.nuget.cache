@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGDL8XKbzdU4MOt2UVshTSt3moT8qDH2CFSVKFBfV9fN4IDikM/MU5cI0bqaCXrNWLVzWfgMiUIJVJDPRm/S1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\husey\\source\\repos\\.NetCore Example\\movieProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husey\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\husey\\.nuget\\packages\\neo4j.driver\\5.6.0\\neo4j.driver.5.6.0.nupkg.sha512",
+    "C:\\Users\\husey\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
